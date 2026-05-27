@@ -1,0 +1,30 @@
+Actual: neutral
+Predicted: neutral
+
+Actual: positive
+Predicted: positive
+
+Actual: neutral
+Predicted: neutral
+
+Actual: negative
+Predicted: negative
+
+Actual: negative
+Predicted: negative
+
+Actual: negative
+Predicted: negative
+
+Actual: negative
+Predicted: negative
+
+Actual: neutral
+Predicted: neutral
+
+Actual: negative
+Predicted: negative
+
+Actual: negative
+Predicted: negative
+
